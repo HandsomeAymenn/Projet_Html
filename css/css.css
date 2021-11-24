@@ -1,0 +1,357 @@
+.titre1{
+    font-family: 'Times New Roman', Times, serif;
+    border-width: 2px;
+    font-family: Impact;
+    
+}
+
+#nav {
+    padding: 0; margin: 0;
+    border: 1px solid #333;
+    background-color: rgb(184, 169, 169);
+    text-align: center;
+    padding: 10px;
+    height: 35px;
+    border: 3px solid purple;
+    display: inline-block;
+    margin-left: 380px;
+    border-radius: 8px;
+
+}   
+
+#nav li {
+    display: inline;
+    list-style: none;
+
+}
+#nav a {
+    display: inline-block;
+    margin: 0 30px;
+}
+
+.arrondie {
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: black;
+}
+
+.fond{
+    background-image: url(https://img.wallpapic.fr/i9642-925-719/thumb/typographie-ecriture-journal-calligraphie-fond-d-ecran.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+
+.photo img{
+    width: 220px;
+    height: 220px;
+    border: 3px solid rgb(1, 2, 2);
+    box-shadow: 0px 0px 10px rgb(54, 54, 233);
+    border-radius: 50%;
+    margin-top: -80px;
+    margin-left: 200px;
+    background-color: black;
+}
+
+.texte2 {
+    margin-left: 150px;
+}
+.bar1{
+    border-width: 4px;
+    border-color: black;
+    border-style: inset;
+    margin-left: 250px;
+    margin-right: 250px;
+    background-color: grey;
+    text-align: center;
+    font-size: 50px;
+    border-radius: 8px;
+}
+
+.texte{
+    font-size: 12px;
+    font-family: arial black;
+    text-align: left;
+    text-align: center
+}
+
+.fondblanc {
+    background-color:papayawhip;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: center;
+    border-color: black;
+    border-left: inset;
+    border-bottom: outset;
+    border-top: solid;
+    border-right: solid;
+}
+.imggauche{
+    margin-left: 30px;
+}
+
+
+.date_decaler{
+    margin-left: 200px;
+}
+.ligne{
+    border-width: 2px;
+    border-style: dashed;
+    border-top: 0px;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+.centre{
+    border-style: ridge;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1100px;
+}
+.titre_tableau{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+    border-width: 2px;
+    border-style: dashed;
+    border-color: red;
+}
+
+.fleche{
+    font-size: 250px;
+    margin-left: 1000px;
+}
+
+.fleche2{
+    font-size: 150px;
+    margin-right: 1000px;
+}
+
+.mpz{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-right: 800px;
+    text-align: justify;
+    border-style: groove;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: black;
+
+}
+
+.center{
+    text-align: center;
+}
+
+.txt{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: justify;
+}
+
+.float{
+    float: left;
+}
+.dashed{
+    border-bottom: groove black 4px;
+    margin-right: 600px;
+    text-indent: 50px;
+    text-align: center;
+    background-color: whitesmoke;
+    border-left: groove black 4px;
+    border-radius: 6px;
+    border-top: groove black 4px;
+    border-right: groove black 4px;
+}
+
+.background{
+    background-image: url(https://img.wallpapic.fr/i9642-925-719/thumb/typographie-ecriture-journal-calligraphie-fond-d-ecran.jpg) ;
+    background-attachment: fixed;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: justify;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.ref{
+    text-align: right;
+}
+
+.centrer{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+} 
+
+.st{
+    text-align: right;
+    margin-left: 600px;
+}
+
+.pointil {
+    border-bottom: black groove 4px;
+    border-top: groove black 4px;
+    border-right: groove black 4px;
+    border-left: black groove 4px;
+    border-radius: 6px;
+    background-color: whitesmoke;
+}
+
+.hg{
+    font-size: 100px;
+    color:magenta;
+    text-decoration: underline magenta;
+
+}
+.Gr{
+    font-size: 35px;
+    text-decoration: underline red;
+}
+
+.logo{
+    float: left;
+}
+
+.theme{
+    text-align: center;
+    font-size: 35px;
+    border-width: 2px;
+    border-style:groove;
+    background: #444446bd;
+    border-radius: 50px;
+    box-shadow: red;
+
+}
+
+.vid{
+    background-color: red;
+    border-radius: 8px;
+    border-top: groove red 10px;
+    border-left: groove red 10px;
+    border-bottom: outset gray 10px;
+    border-right: inset gray 10px;
+}
+
+.trait{
+    border-bottom: black dashed 10px;
+    margin-right: 100px;
+    margin-left: 80px;
+}
+
+.pointill{
+    text-align: center;
+    border-bottom: black groove 8px;
+    border-top: groove black 8px;
+    border-right: groove black 8px;
+    border-left: black groove 8px;
+    border-radius: 6px;
+    background-color: whitesmoke;
+    margin-left: 250px;
+    margin-right: 270px;
+}
+
+.logooutlook{
+    margin-right: 50px;
+}
+
+.logosnap{
+    margin-left: 40px;
+}
+
+.field{
+    border-top: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+.logolinkedin{
+    margin-left: 40px;
+}
+
+.stop{
+    text-align: center;
+    font-size: 30px;
+    border-radius: 250px;
+    border-top: double 12px black;
+    border-bottom: double 12px black;
+    border-left: double 12px black;
+    border-right: double 12px black;
+    background-color: whitesmoke;
+    margin-top: 150px;
+}   
+
+.mt{
+    font-size: 40px;
+    text-align: center;
+    border-top: solid 8px black;
+    border-bottom: solid 8px black;
+    border-left: solid 8px black;
+    border-right: solid 8px black;
+    border-radius: 20px;
+    margin-top: 80px;
+    background-color: whitesmoke;
+}
+.mail{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: purple;
+}
+
+.L1 {
+    color:blue;
+    font-weight: bold;
+    margin-right: 50px;
+    border-top: solid black 2px;
+    border-left: solid black 2px;
+    border-right: solid black 2px;
+    border-bottom: solid black 2px;
+    border-radius: 8px;
+}
+.L2{
+    color:blue;
+    font-weight: bold;
+    border-top: solid black 2px;
+    border-left: solid black 2px;
+    border-right: solid black 2px;
+    border-bottom: solid black 2px;
+    border-radius: 8px;
+}
+.L3{
+    color:blue;
+    font-weight: bold;
+    margin-left: 40px;
+    border-top: solid black 2px;
+    border-left: solid black 2px;
+    border-right: solid black 2px;
+    border-bottom: solid black 2px;
+    border-radius: 8px;
+
+}
+.L4{
+    color:blue;
+    font-weight: bold;
+    margin-left: 42px;
+    border-top: solid black 2px;
+    border-left: solid black 2px;
+    border-right: solid black 2px;
+    border-bottom: solid black 2px;
+    border-radius: 8px;
+
+}
+
+.mn{
+    background-color: white;
+    border-radius: 50px;
+    border-style:groove;
+    border-color: black;
+}
