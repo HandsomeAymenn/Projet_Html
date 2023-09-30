@@ -4,7 +4,5 @@
 - 📫 How to reach me :
 	-mail : aymenboushabi@outlook.fr
 
-<!---
-HandsomeAymenn/HandsomeAymenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Ce projet a etais mon 1er site réaliser lors de mon apprentissage du web, 
+Lien pour visualiser : https://handsomeaymenn.github.io/projet_html/
